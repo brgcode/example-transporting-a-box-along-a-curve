@@ -1,0 +1,9 @@
+name: example-transporting-a-box-along-a-curve
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - pip>=19.0
+  - compas>=1.13.1
+  - compas_occ>=0.3.1
+  - compas_view2
