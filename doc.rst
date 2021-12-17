@@ -6,8 +6,16 @@ Transporting a Box Along a Curve
     :figclass: figure
     :class: figure-img img-fluid
 
+
+Instructions
+============
+
+Download the environment file and script.
+
 * :download:`environment.yml <environment.yml>`
 * :download:`script.py <script.py>`
+
+Create and activate the environment and run the script.
 
 .. code-block:: bash
 
@@ -16,15 +24,15 @@ Transporting a Box Along a Curve
     python script.py
 
 
-Environment File
-================
-
-.. literalinclude:: environment.yml
-    :language: yaml
-
-
 Script
 ======
 
 .. literalinclude:: script.py
     :language: python
+
+
+Environment File
+================
+
+.. literalinclude:: environment.yml
+    :language: yaml
